@@ -21,7 +21,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>MC_Test_Field__c</field>
+                <field>MC_TestDx__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
